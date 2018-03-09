@@ -1,0 +1,26 @@
+{
+  "name": "portal_noticias",
+  "version": "1.0.0",
+  "description": "Site de Noticias",
+  "main": "noticias.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheusoares/udemy_curso_node.git"
+  },
+  "author": "Matheus Soares",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matheusoares/udemy_curso_node/issues"
+  },
+  "homepage": "https://github.com/matheusoares/udemy_curso_node#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "consign": "^0.1.6",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "mysql": "^2.15.0"
+  }
+}
